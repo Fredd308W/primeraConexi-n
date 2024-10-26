@@ -7,6 +7,7 @@ package pruebamysql;
 public class PruebaMySQL {
 
     public static void main(String[] args) {
+        System.out.println("Hola a Todos :D");
         dbConnection dbc = new dbConnection();
         dbc.conectar();
     }
