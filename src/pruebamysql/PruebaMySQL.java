@@ -8,6 +8,7 @@ public class PruebaMySQL {
 
     public static void main(String[] args) {
         System.out.println("HLA PUTAS");
+        System.out.println("sdfsdfg");
         dbConnection dbc = new dbConnection();
         dbc.conectar();
     }
